@@ -8,7 +8,6 @@ While you are here, don't miss these projects:
 - https://github.com/PrestoPalette/PrestoPalette - If you're into digital art, then this tool is for you. It will help you compose harmonious palettes for your digital art.  Game artists really like this tool. This tool is being shipped as part of Fedora Linux!
 - https://github.com/dagostinelli/hypatia - A linear algebra math library.  This has been used in a game engine, a digital oscilloscope and it may soon be flying in low earth orbit aboard something special...
 - https://github.com/solarsailengine - When I was a boy, I dreamed of making video games.  When I grew up, I didn't entirely shed the dream.  Instead, I wrote a game engine and it works!
-- https://github.com/dagostinelli/maintenancecosts - I spent 20 years doing software consulting.  I realized that maintenance costs kill companies.  I decided to start a book on the topic (work in progress)
 - https://github.com/dagostinelli/python-package-boilerplate - Lots of web developers royally mess up Python.  Here's a place to get started.
 
 I also have a personal web site that you might like to take a look at.  https://www.darrylagostinelli.com 
